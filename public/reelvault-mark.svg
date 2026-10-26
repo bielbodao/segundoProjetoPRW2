@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ReelVault">
+  <rect width="64" height="64" rx="12" fill="#a3222a" />
+  <path d="M15 17h34v30H15z" fill="#fff" />
+  <path d="M15 17h34v8H15zm0 22h34v8H15z" fill="#252525" />
+  <circle cx="25" cy="32" r="4" fill="#a3222a" />
+  <circle cx="39" cy="32" r="4" fill="#a3222a" />
+</svg>
